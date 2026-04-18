@@ -3,7 +3,7 @@
 **`Desenvolvedora de sistemas`**
 
 Me chamo Gabriela de Almeida Dias, tenho 18 anos e sou de São Paulo. Atualmente, sou estudante de Técnico em Desenvolvimento de Sistemas no Senac.
-Sou apaixonada por tecnologia e estou sempre em busca de aprender mais e evoluir minhas habilidades através da programação. Compartilho um pouco da minha jornada e experiências também no meu LinkedIn "[GabrielaDias](https://www.linkedin.com/in/gabriela-de-almeida-dias-89a905364?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)".
+Sou apaixonada por tecnologia e estou sempre em busca de aprender mais e evoluir minhas habilidades através da programação. Compartilho um pouco da minha jornada e experiências também no meu LinkedIn "[GabrielaDias](https://www.linkedin.com/in/gabriela-de-almeida-dias-89a905364)".
 
 ---
 
