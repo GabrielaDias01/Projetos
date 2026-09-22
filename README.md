@@ -75,6 +75,14 @@ Sou apaixonada por tecnologia e estou sempre em busca de aprender mais e evoluir
 
 <img 
     align="left" 
+    alt="ANDROIDSTUDIO" 
+    title="ANDROIDSTUDIO"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+
+<img 
+    align="left" 
     alt="HTML" 
     title="HTML"
     width="30px" 
@@ -107,6 +115,14 @@ Sou apaixonada por tecnologia e estou sempre em busca de aprender mais e evoluir
 
 <img 
     align="left" 
+    alt="SQLSERVER" 
+    title="SQLSERVER"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+
+<img 
+    align="left" 
     alt="NODEJS" 
     title="NODEJS"
     width="30px" 
@@ -136,7 +152,22 @@ Sou apaixonada por tecnologia e estou sempre em busca de aprender mais e evoluir
     width="30px" 
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+
+<img 
+    align="left" 
+    alt="ARDUINO" 
+    title="ARDUINO"
+    width="30px" 
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+    
+
+            
+          
+            
           
     
+            
+          
              
           
