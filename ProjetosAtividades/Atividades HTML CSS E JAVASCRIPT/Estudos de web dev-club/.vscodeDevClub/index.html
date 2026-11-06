@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8"> <!--Padrão de linguagem, ex: abc-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css"><!--Relacionamento com a folha de estilização-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap"
+        rel="stylesheet">
+    <title>DevClub - Generador de IA</title>
+</head>
+
+<body>
+    <h1> CSS Gerador <span>Com IA</span>⚡</h1>
+    <h2>Descreva o que você imagina e veja a mágica acontecer</h2>
+
+    <textarea rows="3" class="caixaTexto" placeholder="Digite suas ideias aqui"></textarea>
+
+    <button class="botaoGerar">Gerar Código⚡</button>
+
+    <div class="resultado">
+        <div>
+            <h2>Código</h2>
+            <p class="blocoCodigo"></p>
+        </div>
+
+        <div>
+            <h2>Preview</h2>
+            <!--O iframe serve para colocar códigos dentro-->
+            <iframe class="resultadoCodigo"></iframe>
+        </div>
+    </div>
+</body>
+
+<script src="scripts.js"></script>
+
+</html>

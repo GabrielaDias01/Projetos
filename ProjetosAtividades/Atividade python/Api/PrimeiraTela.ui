@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>430</width>
+    <height>164</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Tela Astronomia</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(85, 85, 127);</string>
+  </property>
+  <widget class="QLabel" name="labelAstrologia">
+   <property name="geometry">
+    <rect>
+     <x>110</x>
+     <y>20</y>
+     <width>211</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 18pt &quot;Gill Sans Ultra Bold&quot;;</string>
+   </property>
+   <property name="text">
+    <string>ASTRONOMIA</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEditTela1">
+   <property name="geometry">
+    <rect>
+     <x>100</x>
+     <y>70</y>
+     <width>241</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+background-color: rgb(255, 255, 255);
+border-radius: 08px; </string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButtonTela1">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>110</y>
+     <width>75</width>
+     <height>23</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(255, 255, 255);
+font: 75 9pt &quot;MS Shell Dlg 2&quot;;
+background-color: rgb(0, 0, 0);
+border-radius: 08px; </string>
+   </property>
+   <property name="text">
+    <string>Entrar</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
