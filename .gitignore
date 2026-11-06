@@ -1,0 +1,13 @@
+# Arquivos compilados Java
+*.class
+
+# Pastas de compilação
+build/
+out/
+
+# Configurações locais de IDE
+.idea/
+.vscode/
+
+# Arquivos temporários
+*.log
